@@ -19,7 +19,7 @@ python test.py
 
 ### 2. Install Package with pip (Recommended)
 
-Download `siyiA8mini-0.1.0-py3-none-any.whl` from [release](https://github.com/your-repo/releases) locally, then run:
+Download `siyiA8mini-0.1.0-py3-none-any.whl` from [release]([https://github.com/your-repo/releases](https://github.com/Percylevent/siyi_A8mini_sdk/releases/tag/v1.0.0)) locally, then run:
 
 ```bash
 pip install siyiA8mini-0.1.0-py3-none-any.whl
